@@ -9,6 +9,12 @@
 # testing
 /coverage
 
+# 内部docs
+/inner-docs
+
+# vscodeの設定
+/.vscode
+
 # next.js
 /.next/
 /out/
